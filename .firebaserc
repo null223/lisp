@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "main": "lisp-null223"
+  },
+  "targets": {
+    "lisp-null223": {
+      "hosting": {
+        "liff": [
+          "lisp-null223"
+        ]
+      }
+    }
+  }
+}
